@@ -1,0 +1,28 @@
+.ghibli-img01 {
+  object-fit: cover;
+  object-position: 0 70%;
+  height: 400px;
+}
+
+.ghibli-img02 {
+  object-fit: cover;
+  object-position: 0 30%;
+  height: 400px;
+}
+
+.ghibli-img03 {
+  object-fit: cover;
+  object-position: 0 30%;
+  height: 400px;
+}
+
+.title-carousel {
+  font-family: 'Quicksand', sans-serif;
+  
+}
+
+.principal-title {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 600;
+  color: #FE4365 !important;
+}
